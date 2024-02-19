@@ -74,3 +74,43 @@
     margin: 0.5rem 0;
   }
 }
+
+/// Header Styling End
+
+//  Footer Styling Start
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 2rem 0;
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-links ul li {
+  margin-bottom: 1rem;
+}
+
+.footer-links ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer-info p {
+  margin: 0;
+}
+
+.footer-bottom {
+  background-color: #222;
+  padding: 0.5rem 0;
+  text-align: center;
+}
